@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pypng = { git = "git+https://gitlab.com/drj11/pypng"}
+
+[dev-packages]
+flake8 = "*"
+pylint = "*"
+black = "*"
+
+[requires]
+python_version = "3.12"
