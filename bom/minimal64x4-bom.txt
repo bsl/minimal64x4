@@ -1,0 +1,40 @@
+200-CES10301TD,1,power header,https://mou.sr/3A5ICFf
+200-CES10602TSRA,1,UART header,https://mou.sr/4dWpJ5s
+200-CES11601GD,1,expansion port header,https://mou.sr/4f6ylHS
+520-TCF1600-X,1,crystal,https://mou.sr/4habNHX
+523-7HDE15SDH4RHNVGA,1,VGA port,https://mou.sr/3BYDP99
+571-1-2199298-3,17,14-pin DIP socket,https://mou.sr/3Ab037c
+571-1-2199298-4,29,16-pin DIP socket,https://mou.sr/40jj563
+571-1-2199298-6,15,20-pin DIP socket,https://mou.sr/40fvTu3
+571-1-2199300-2,6,32-pin DIP socket,https://mou.sr/4hgL0JN
+571-5749180-1,1,PS/2 port,https://mou.sr/4ff9EIW
+594-MBB02070C1000FCT,1,100 ohm resistor,https://mou.sr/3Yer9Cx
+594-MBB02070C1500FCT,2,150 ohm resistor,https://mou.sr/40i2qQi
+594-MBB02070C2000FCT,1,200 ohm resistor,https://mou.sr/3NAjOYX
+594-MBB02070C4700FRP,16,470 ohm resistor,https://mou.sr/3YAar1K
+594-MBB02070C4701FCT,4,4.7k ohm resistor,https://mou.sr/4eUTyV9
+594-MBB02070C6809FCT,2,68 ohm resistor,https://mou.sr/4eS2afu
+595-CD74HC157E,4,,https://mou.sr/48h4UjU
+595-CD74HC283E,2,,https://mou.sr/3YhnsMj
+595-CD74HC377E,4,,https://mou.sr/3NBxYJy
+595-CD74HC4002E,1,,https://mou.sr/3NBy18c
+595-CD74HC595E,2,,https://mou.sr/3YxmEV2
+595-CD74HCT132E,1,,https://mou.sr/4e3IEet
+595-SN74HC00N,3,,https://mou.sr/4dWwmF0
+595-SN74HC02AN,2,,https://mou.sr/4fgKvO6
+595-SN74HC08N,2,,https://mou.sr/4eU2KJo
+595-SN74HC161N,14,,https://mou.sr/3NBshv1
+595-SN74HC165N,2,,https://mou.sr/4dXwNyD
+595-SN74HC166N,1,,https://mou.sr/4dWeB8M
+595-SN74HC193N,2,,https://mou.sr/40fxhgf
+595-SN74HC245N,8,,https://mou.sr/40fjqXr
+595-SN74HC32N,6,,https://mou.sr/4e3nz3Y
+595-SN74HC574N,3,,https://mou.sr/3BThwlc
+595-SN74HC590AN,2,,https://mou.sr/4dVHemn
+595-SN74HC86NE4,2,,https://mou.sr/4dWeYjG
+688-SKHHAK,1,reset button,https://mou.sr/4dZYlUe
+80-C315C220J2G,4,22pF capacitor,https://mou.sr/4hcJloF
+80-C320C104J5R,29,0.1uF capacitor,https://mou.sr/4feVCan
+804-39SF010A7CPHE,3,read-only system disk?,https://mou.sr/4ffL0s0
+804-39SF0407CPHE,1,SSD,https://mou.sr/48kL5YR
+913-AS6C1008-55PCN,2,SRAM and VRAM,https://mou.sr/48eG3gN
