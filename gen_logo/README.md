@@ -18,6 +18,12 @@ The input file should be a 72x28 32-bit RGBA PNG. Make sure it looks like this:
 logo.png: PNG image data, 72 x 28, 8-bit/color RGBA, non-interlaced
 ```
 
+If it doesn't look like that, try something like:
+
+```
+convert orig.png png32:fixed.png
+```
+
 Dark-ish pixels will be considered off, light-ish pixels will be considered on.
 
 ## Running
